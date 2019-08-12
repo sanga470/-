@@ -1,5 +1,3 @@
-# WEB1
-
 <!doctype html>
 <html>
 <head>
